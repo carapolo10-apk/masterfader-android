@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fader Macros</string>
+    <string name="service_label">Fader Macros automation</string>
+    <string name="service_description">Lets Fader Macros press buttons and move faders in the Mackie Master Fader app when you run a macro. It only acts while a macro is running and only inside the Master Fader app.</string>
+</resources>
